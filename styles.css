@@ -131,6 +131,7 @@ span {
     font-size: 0.75rem;
 }
 
+
 .header-nav ul {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -139,7 +140,8 @@ span {
 
 .header-nav ul li button {
     border-radius: 1rem;
-    padding: 3px 30px;
+    border: 1px solid rgb(255, 255, 255);
+    padding: 8px 30px;
     background-color: rgb(25, 146, 212);
     color: rgb(255, 255, 255);
 }
